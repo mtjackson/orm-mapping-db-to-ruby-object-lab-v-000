@@ -35,7 +35,7 @@ class Student
   def self.students_below_12th_grade
   end
 
-  def self.first_X_students_in_grade_10
+  def self.first_X_students_in_grade_10(number)
   end
 
   def self.first_student_in_grade_10
