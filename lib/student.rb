@@ -41,6 +41,7 @@ class Student
 
   def self.students_below_12th_grade
     sql = <<-SQL
+    SQL
   end
 
   def self.first_X_students_in_grade_10(number)
