@@ -60,6 +60,7 @@ class Student
         self.new_from_db(row)
         i+= 1
       end
+    end
   end
 
   def self.first_student_in_grade_10
