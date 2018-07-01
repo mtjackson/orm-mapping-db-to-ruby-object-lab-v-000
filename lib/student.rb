@@ -29,7 +29,7 @@ class Student
     end.first
   end
 
-  def
+  def self.
 
   def save
     sql = <<-SQL
